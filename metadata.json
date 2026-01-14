@@ -1,0 +1,7 @@
+{
+  "name": " Miniature Car Catalog",
+  "description": "A sophisticated tool for managing car miniature collections with Excel import support, multi-delete functionality, and automated internet image sourcing for car models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
